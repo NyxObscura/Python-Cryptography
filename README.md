@@ -47,8 +47,8 @@ This application supports a wide range of cryptographic algorithms and functiona
 
 1.  **Clone the Repository (Optional):**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/NyxObscura/Python-Cryptography
+    cd Python-Cryptoghrapy
     ```
 2.  **Install Dependencies:**
     Make sure you have Python 3.x installed. Then, install the required libraries using pip:
@@ -58,7 +58,7 @@ This application supports a wide range of cryptographic algorithms and functiona
 
 ## How to Use
 
-1.  **Save the Script:** Save the provided Python code as a file (e.g., `crypto_tool.py`).
+1.  **Save the Script:** Save the provided Python code as a file (e.g., `main.py`).
 2.  **Run the Application:**
     Execute the script from your terminal:
     ```bash
@@ -142,6 +142,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have questions or suggestions, feel free to reach out:
 
-* **Email**: [service@obscuraworks.com]
-* **GitHub**: [NyxObscura]
+* **Email**: [service@obscuraworks.com](mailto:service@obscuraworks.com)
+* **GitHub**: [NyxObscura](https://github.com/NyxObscura)
 
