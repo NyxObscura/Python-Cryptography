@@ -62,7 +62,7 @@ This application supports a wide range of cryptographic algorithms and functiona
 2.  **Run the Application:**
     Execute the script from your terminal:
     ```bash
-    python crypto_tool.py
+    python3 main.py
     ```
 3.  **Choose an Option:** The application will display a menu. Enter the number corresponding to the desired algorithm or action.
 4.  **Follow Prompts:** The tool will guide you through the process, asking for input (text or file), keys, passwords, modes (encrypt/decrypt), etc.
